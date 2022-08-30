@@ -1,4 +1,4 @@
-Task No 27 Completed
+I've understand the division between 'head' & 'body' tags and their purpose
 
 <!DOCTYPE html>
 <html>
