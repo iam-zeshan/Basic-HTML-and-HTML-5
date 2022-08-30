@@ -1,0 +1,6 @@
+I've learned about the 'DOCTYPE' and what is it's purpose.
+
+<!DOCTYPE html>
+<html>
+  <h1>HTML 5</h1>
+</html>
