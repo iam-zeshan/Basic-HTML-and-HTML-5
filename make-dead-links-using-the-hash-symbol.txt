@@ -1,4 +1,5 @@
 Learn about the #, I mean we can use # inside of 'href' attribute, before it's confirmation
+And obvously which is called as "Dead Link"
 
 <h2>CatPhotoApp</h2>
 <main>
